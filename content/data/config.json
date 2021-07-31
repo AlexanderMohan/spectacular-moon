@@ -39,7 +39,7 @@
     },
     "footer": {
         "content": "&copy; AlexanderMohan 2016-2021, which a trading name of CHABGO LTD, registered company no 10032263, of 83 Ducie St, Manchester, M1 2JQ.",
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
