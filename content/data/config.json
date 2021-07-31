@@ -7,7 +7,7 @@
     "header": {
         "logo": "/images/alexandermohan_lateral.png",
         "logo_alt": "Logo wordmark. Text: 'AlexanderMohan'.",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
