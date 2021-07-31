@@ -8,7 +8,7 @@
         "title": "AlexanderMohan",
         "logo": "/images/alexandermohan_lateral.png",
         "logo_alt": "Agency logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
