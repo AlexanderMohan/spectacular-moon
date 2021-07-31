@@ -58,7 +58,7 @@ export default class FormField extends React.Component {
                 );
             case 'enable-netlify':
                 return (
-                    <input type="hidden" name="form-name" value="name_of_my_form" />
+                    <input type="hidden" name={name} value="name_of_my_form" />
                 );
             default:
                 return (
