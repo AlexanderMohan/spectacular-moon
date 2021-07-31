@@ -1,5 +1,3 @@
-# ✨ Agency Nextjs Theme ✨
-
 This is Stackbit's "Agency" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
 
