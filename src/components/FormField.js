@@ -59,7 +59,7 @@ export default class FormField extends React.Component {
             case 'enable-netlify':
                 return (
                     <div className="form-group">
-                    <input type="hidden" name={name} value={name} />
+                        <input type="hidden" name={name} value={name} />
                     </div>
                 );
             default:
