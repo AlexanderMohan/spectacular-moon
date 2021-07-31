@@ -56,6 +56,10 @@ export default class FormField extends React.Component {
                         <span className="animate-border" aria-hidden="true" />
                     </div>
                 );
+            case 'enable-netlify':
+                return (
+                    <input type="hidden" name="form-name" value="name_of_my_form" />
+                );
             default:
                 return (
                     <div className="form-group">
