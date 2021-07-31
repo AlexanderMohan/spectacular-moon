@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       A technology consultancy and business support service for small and medium
-      enterprise in Scotland and Northern England.
+      retail businesses in Scotland and Northern England.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
