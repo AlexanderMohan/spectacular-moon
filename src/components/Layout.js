@@ -69,6 +69,10 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
+                    {/* Add support for PWA and iOS specific */}
+                    <link rel="manifest" href="manifest.json"></link>
+                    <meta name="apple-mobile-web-app-capable" content="yes"></meta>
+                    
                     {seoRobots && <meta name="robots" content={seoRobots} />}
                     {seoExtra}
                     {font !== 'system-sans' && <link rel="preconnect" href="https://fonts.gstatic.com" />}

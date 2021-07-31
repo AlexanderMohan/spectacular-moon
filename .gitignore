@@ -96,3 +96,7 @@ out
 .sourcebit-nextjs-cache.json
 .DS_Store
 .idea
+
+# next-pwa
+**/public/workbox-*.js
+**/public/sw.js
