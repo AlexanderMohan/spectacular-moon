@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "blue",
-    "base_font": "fraunces",
+    "base_font": "system-sans",
     "header": {
         "logo_alt": "Logo wordmark. Text: 'AlexanderMohan'.",
         "has_nav": true,
