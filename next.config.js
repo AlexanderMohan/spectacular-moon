@@ -5,7 +5,7 @@ const runtimeCaching = require('next-pwa/cache')
 
 sourcebit.fetch(sourcebitConfig);
 
-module.exports = {
+module.exports = withPWA({
     trailingSlash: true,
     devIndicators: {
         autoPrerender: false
@@ -23,4 +23,4 @@ module.exports = {
         config.plugins.push(new webpack.WatchIgnorePlugin([[/\/content\//]]));
         return config;
     }
-};
+});
