@@ -67,7 +67,8 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-    
+      - input_type: enable-netlify
+        name: contactForm
     submit_label: Send Message
 seo:
   title: Contact
