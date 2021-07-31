@@ -11,6 +11,10 @@ sections:
       We provide technology expertise and support to help your business reduce
       its costs and optimise your sales, all for an industry-beating price. We
       make sense of an overcomplicated market so that you don't have to.
+
+
+      Supporting businesses across South and Central Scotland, as well as
+      Inverness, North East England, and Yorkshire.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
