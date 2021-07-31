@@ -7,10 +7,10 @@ sections:
     title: >-
       A technology consultancy and business support service for small and medium
       retail businesses in Scotland and Northern England.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      We provide technology expertise and support to help your business reduce
+      its costs and optimise your sales, all for an industry-beating price. We
+      make sense of an overcomplicated market so that you don't have to.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
