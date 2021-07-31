@@ -1,5 +1,7 @@
 const sourcebit = require('sourcebit');
 const sourcebitConfig = require('./sourcebit.js');
+const withPWA = require('next-pwa');
+const runtimeCaching = require('next-pwa/cache')
 
 sourcebit.fetch(sourcebitConfig);
 
