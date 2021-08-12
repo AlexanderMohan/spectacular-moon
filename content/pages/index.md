@@ -21,16 +21,13 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Business support
         image: images/service-1.svg
         content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+          - Cost management
+          - Waste analysis
+          - POS administration
+          - Social marketing
       - title: Brand design
         image: images/service-2.svg
         content: |-
@@ -41,17 +38,14 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Experience design
+      - title: IT Consultancy
         image: images/service-3.svg
         content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+          - Experience with the full Microsoft 365 platform
+          - Azure certified
+          - Managed Service Partner for small retail and QSRs
+          - All sectors of retail for SMEs
+          - Experts in supporting Education/Non-profits
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
