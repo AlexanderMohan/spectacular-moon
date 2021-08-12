@@ -15,14 +15,6 @@ sections:
 
       Supporting businesses across South and Central Scotland, as well as
       Inverness, North East England, and Yorkshire.
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: services
     title: Services
@@ -60,27 +52,6 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: testimonials_section
-    section_id: testimonials
-    title: Testimonials
-    subtitle: What our Clients say
-    col_number: three
-    testimonials:
-      - author: Desmond Eagle
-        avatar: images/desmond-eagle.jpg
-        avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Dianne Ameter
-        avatar: images/dianne-ameter.jpg
-        avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
